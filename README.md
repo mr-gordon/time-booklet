@@ -20,7 +20,7 @@ Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im 
 3. Sofort erscheint ein Fenster mit allen Infos und der Countdown startet.
 
 ## Die Regeln im Code
-* **Soll:** 8 Stunden (480 Min).
+* **Soll:** 8 Stunden (480 Min) oder 7 Stunden (420 Min), je nach hinterlegtem Zeitmodell.
 * **Pause:** Mindestens 50 Min.
 * **Hybrid:** 75% der Zeit (minus 18 Min. Puffer).
 
