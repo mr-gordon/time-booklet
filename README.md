@@ -2,6 +2,10 @@
 
 Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im Blick zu behalten. Es zeigt dir, wann du gehen darfst und ab wann "Hybrid" (Homeoffice) möglich ist.
 
+## Versionierung
+* **Version 1.1.0 (Aktuell)**: Umstellung der Standard-Sollzeit auf 7 Stunden (420 Min).
+* **Version 1.0.0**: Basis-Version mit 8 Stunden (480 Min), Hybrid-Check und Live-Countdown.
+
 ## Was das Tool macht
 * **Arbeitszeit:** Rechnet aus, wie lange du heute schon da bist.
 * **Pausen:** Prüft, ob du die 50 Min. Mindestpause schon erreicht hast.
