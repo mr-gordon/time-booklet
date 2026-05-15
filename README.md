@@ -3,30 +3,36 @@
 Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im Blick zu behalten. Es zeigt dir, wann du gehen darfst und ab wann "Hybrid" (Homeoffice) möglich ist.
 
 ## Versionierung
-* **Version 1.1.0 (Aktuell)**: Umstellung der Standard-Sollzeit auf 7 Stunden (420 Min).
+* **Version 1.5.0 (Aktuell)**: 
+    * Interaktives Overlay mit Klick-Funktion für Detail-Infos.
+    * Visueller Ladebalken am unteren Rand des Overlays.
+    * Weiße Markierung im Ladebalken zeigt die Hybrid-Schwelle.
+    * Zweiter Live-Counter für die verbleibende Zeit bis zum Hybrid-Status.
+* **Version 1.1.0**: Umstellung der Standard-Sollzeit auf 7 Stunden (420 Min) und Entfernung des Zeitpuffers.
 * **Version 1.0.0**: Basis-Version mit 8 Stunden (480 Min), Hybrid-Check und Live-Countdown.
 
 ## Was das Tool macht
 * **Arbeitszeit:** Rechnet aus, wie lange du heute schon da bist.
-* **Pausen:** Prüft, ob du die 50 Min. Mindestpause schon erreicht hast.
-* **Hybrid-Check:** Sagt dir die Uhrzeit, ab wann du nach Hause wechseln darfst (75%-Regel).
-* **Countdown:** Zeigt unten rechts an, wie viele Minuten du noch arbeiten musst.
+* **Pausen:** Prüft, ob du die 50 Min. Mindestpause erreicht hast.
+* **Hybrid-Dashboard:** Zeigt dir im Overlay die Zeit bis zum möglichen Wechsel ins Homeoffice (75%-Regel).
+* **Live-Fortschritt:** Ein visueller Balken und ein Countdown zeigen dir sekundengenau den Weg zum Feierabend.
+* **Interaktivität:** Klicke auf das Overlay am Bildschirmrand, um die detaillierte Statistik aufzurufen.
 
 ## So installierst du es
-1. Erstelle ein neues **Lesezeichen** in deinem Browser (Chrome).
+1. Erstelle ein neues **Lesezeichen** (Bookmark) in deinem Browser (Chrome).
 2. Gib ihm einen Namen, z. B. `Zeit-Check`.
-3. Kopiere den kompletten JavaScript-Code und füge ihn bei **URL** ein.
+3. Kopiere den kompletten JavaScript-Code und füge ihn im Feld **URL** bzw. **Adresse** ein.
 4. Speichern – fertig!
 
 ## So benutzt du es
 1. Öffne deine Zeiterfassungs-Seite im Browser.
-2. Klicke einfach auf das neue Lesezeichen in deiner Leiste.
-3. Sofort erscheint ein Fenster mit allen Infos und der Countdown startet.
+2. Klicke auf das Lesezeichen in deiner Leiste.
+3. Sofort erscheint die Übersicht und das interaktive Overlay startet unten rechts.
 
 ## Die Regeln im Code
-* **Soll:** 8 Stunden (480 Min) oder 7 Stunden (420 Min), je nach hinterlegtem Zeitmodell.
-* **Pause:** Mindestens 50 Min.
-* **Hybrid:** 75% der Zeit.
+* **Soll:** 7 Stunden (420 Min) – *Individuell im Code anpassbar.*
+* **Pause:** Mindestens 50 Min. (Differenz wird bei Unterschreitung automatisch addiert).
+* **Hybrid:** Exakt 75% der Sollarbeitszeit.
 
 ---
 *Privates Tool – Nutzung auf eigene Verantwortung.*
