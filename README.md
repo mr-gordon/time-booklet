@@ -3,7 +3,9 @@
 Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im Blick zu behalten. Es zeigt dir, wann du gehen darfst und ab wann "Hybrid" (Homeoffice) möglich ist.
 
 ## Versionierung
-* **Version 1.5.1 (Aktuell)**: Bugfix für das Overlay – Detail-Statistiken aktualisieren sich nun bei jedem Klick live.
+* **Version 1.5.1 (Aktuell)**: 
+    * Drag & Drop hinzugefügt (Overlay frei auf dem Bildschirm verschiebbar).
+    * Bugfix für das Overlay – Detail-Statistiken aktualisieren sich bei Klick live.
 * **Version 1.5.0**: 
     * Interaktives Overlay mit Klick-Funktion für Detail-Infos.
     * Visueller Ladebalken am unteren Rand des Overlays.
@@ -17,7 +19,7 @@ Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im 
 * **Pausen:** Prüft, ob du die 50 Min. Mindestpause erreicht hast.
 * **Hybrid-Dashboard:** Zeigt dir im Overlay die Zeit bis zum möglichen Wechsel ins Homeoffice (75%-Regel).
 * **Live-Fortschritt:** Ein visueller Balken und ein Countdown zeigen dir sekundengenau den Weg zum Feierabend.
-* **Interaktivität:** Klicke auf das Overlay am Bildschirmrand, um die detaillierten Statistiken jederzeit **live** aufzurufen.
+* **Flexibilität:** Klicke auf das Overlay am Bildschirmrand für **Live-Statistiken** oder ziehe es per Drag & Drop an eine beliebige Position.
 
 ## So installierst du es
 1. Erstelle ein neues **Lesezeichen** (Bookmark) in deinem Browser (Chrome).
