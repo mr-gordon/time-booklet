@@ -40,7 +40,7 @@ Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im 
 ## Autoren
 Dieses Projekt wurde gemeinsam entwickelt von:
 
-- Christopher Winker (@mr-gordon)
+- Christopher Winker (<a href="https://github.com/mr-gordon">@mr-gordon</a>)
 - Sebastian Hüllenberg
   
 ---
