@@ -37,5 +37,11 @@ Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im 
 * **Pause:** Mindestens 50 Min.
 * **Hybrid:** Exakt 75% der Sollarbeitszeit.
 
+## Autoren
+Dieses Projekt wurde gemeinsam entwickelt von:
+
+- Christopher Winker (@mr-gordon)
+- Max Mustermann
+  
 ---
 *Privates Tool – Nutzung auf eigene Verantwortung.*
