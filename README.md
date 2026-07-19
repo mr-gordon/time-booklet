@@ -2,6 +2,10 @@
 
 Dieses kleine Tool hilft dir, deine Arbeitszeit in der SAP-Übersicht besser im Blick zu behalten. Es zeigt dir, wann du gehen darfst und ab wann "Hybrid" (Homeoffice) möglich ist.
 
+<img src="https://www.christopherwinker.de/tools/data/screen-time-booklet.png" alt="Vorschau" width="100%">
+
+---
+
 ## Versionierung
 * **Version 1.5.4 (Aktuell)**: 
     * Drag & Drop implementiert (Overlay responsive per `vw`/`vh` verschiebbar).
